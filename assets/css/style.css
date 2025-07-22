@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url(../fonts/sam.ttf) format("truetype");
+  font-display: swap;
+}

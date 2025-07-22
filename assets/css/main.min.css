@@ -251,8 +251,7 @@ h2 {
   background-color: white;
   border-radius: 100%;
   transition: all 0.3s ease-out;
-  max-width: 70%;
-  max-height: 70%;
+  max-width: 60%;
 }
 .main-container .intro .photo img:hover {
   -webkit-transform: scale(1.1);

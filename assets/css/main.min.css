@@ -240,7 +240,7 @@ h2 {
 }
 @media screen and (max-width: 1024px) {
   .main-container .intro .photo {
-    flex: 0 0 30%;
+    flex: 0 0 20%;
   }
   .main-container .intro .photo img {
     align-self: center;

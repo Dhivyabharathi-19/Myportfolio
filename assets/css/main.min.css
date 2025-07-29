@@ -175,6 +175,7 @@ h2 {
   margin-bottom: 48px;
 }
 .main-container .intro .details .mail,
+.main-container .intro .details .resume,
 .main-container .intro .details .location {
   display: flex;
   align-items: center;
@@ -183,12 +184,14 @@ h2 {
 }
 @media screen and (max-width: 1024px) {
   .main-container .intro .details .mail,
+  .main-container .intro .details .resume,
   .main-container .intro .details .location {
     justify-content: center;
   }
 }
 .main-container .intro .details .mail a,
 .main-container .intro .details .mail span,
+.main-container .intro .details .resume a,
 .main-container .intro .details .location a,
 .main-container .intro .details .location span {
   text-decoration: none;
